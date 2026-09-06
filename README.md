@@ -50,5 +50,5 @@ Language: english
 Notifications: enabled
 
 # Requirements
-Python 3.x
-No external libraries are required.
+* Python 3.x
+* No external libraries are required.
